@@ -1,2 +1,1 @@
-# Elastic-Sphere-Collisions-Clunky-
-A project I made while learning C, don't expect a masterpiece
+Use releases I compiled, or download the source file to compile yourself.
